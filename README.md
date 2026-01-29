@@ -1,6 +1,6 @@
 <img src="https://github.com/9001/copyparty/raw/hovudstraum/docs/logo.svg" width="250" align="right"/>
 
-### 💾🎉 copyparty
+### 💾🎉 ~~copyparty~~ betterparty
 
 turn almost any device into a file server with resumable uploads/downloads using [*any*](#browser-support) web browser
 
@@ -14,12 +14,13 @@ turn almost any device into a file server with resumable uploads/downloads using
 
 🎬 **videos:** [upload](https://a.ocv.me/pub/demo/pics-vids/up2k.webm) // [cli-upload](https://a.ocv.me/pub/demo/pics-vids/u2cli.webm) // [race-the-beam](https://a.ocv.me/pub/g/nerd-stuff/cpp/2024-0418-race-the-beam.webm) // 👉 **[feature-showcase](https://a.ocv.me/pub/demo/showcase-hq.webm)** ([youtube](https://www.youtube.com/watch?v=15_-hgsX2V0))
 
-built in Norway 🇳🇴 with contributions from [not-norway](https://github.com/9001/copyparty/graphs/contributors)
+built in Norway 🇳🇴 with contributions from [not-norway](https://github.com/9001/copyparty/graphs/contributors) and [TheSacco](https://github.com/TheSacco/)!
 
 
 ## readme toc
 
 * top
+    * [betterparty](#betterparty) - improvements made by betterparty
     * [quickstart](#quickstart) - just run **[copyparty-sfx.py](https://github.com/9001/copyparty/releases/latest/download/copyparty-sfx.py)** -- that's it! 🎉
         * [mirrors](#mirrors) - other places to download copyparty from
         * [at home](#at-home) - make it accessible over the internet
@@ -151,6 +152,14 @@ built in Norway 🇳🇴 with contributions from [not-norway](https://github.com
 * [install on iOS](#install-on-iOS)
 * [reporting bugs](#reporting-bugs) - ideas for context to include, and where to submit them
 * [devnotes](#devnotes) - for build instructions etc, see [./docs/devnotes.md](./docs/devnotes.md)
+
+## betterparty
+
+betterparty (all lowercase!) is a modification to the copyparty code to add features that the original developer [ed](https://github.com/9001/) doesn't want to add due to his design philosophy.
+
+betterparty currently add these features:
+
+- An autoupdater (Work in progress)
 
 
 ## quickstart
