@@ -2030,7 +2030,7 @@ def main(argv: Optional[list[str]] = None) -> None:
 
     init_E(E)
 
-    f = '\033[36mcopyparty v{} "\033[35m{}\033[36m" ({})\n{}\033[0;36m\n   sqlite {} | jinja {} | pyftpd {} | tftp {} | miko {}\n\033[0m'
+    f = '\033[36mcopyparty v{} "\033[35m{}\033[36m" ({}) with betterparty additions\n{}\033[0;36m\n   sqlite {} | jinja {} | pyftpd {} | tftp {} | miko {}\n\033[0m'
     f = f.format(
         S_VERSION,
         CODENAME,
